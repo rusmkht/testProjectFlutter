@@ -1,16 +1,12 @@
 # flutter_project_1
 
-A new Flutter application.
+A new Flutter test-application.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Task itself - notion.so/9fa6093c1cdf435694606a0ba5833dbf
+Given design - https://www.figma.com/file/zsip3SRllmAXBSYsomJHoI/Test?node-id=0%3A1
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
